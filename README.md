@@ -1,6 +1,6 @@
 # Khóa luận tốt nghiệp
 
-* **Reponsity** này chứa các **notebook* cũng như là các mô hình và một **webstie** để demo cho các mô hình và nó không bao gồm dữ liệu huấn luyện.
+* **Reponsity** này chứa các **notebook** cũng như là các mô hình và một **webstie** để demo cho các mô hình và nó không bao gồm dữ liệu huấn luyện.
 
 * Khóa luận nhằm xây dựng mô hình `Computer Vision (Object Detection)` nhằm để phát hiện và phân loại hạt lúa giống
 
